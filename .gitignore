@@ -11,7 +11,6 @@ SingleOption/old/
 *.sln.docstates
 *.zip
 *.csv
-*.xlsm
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
